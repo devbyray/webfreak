@@ -1,0 +1,1077 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"trans",
+				"transition:   (property)"
+			],
+			[
+				"block",
+				"inline-block"
+			],
+			[
+				"css",
+				"css	.css() - multiple"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"cons",
+				"console"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"image",
+				"image_src"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"docum",
+				"documentHeigth"
+			],
+			[
+				"mix",
+				"mixin	@mixin"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"content",
+				"content:   (property)"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"ease-in",
+				"ease-in-out"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"a",
+				"a	<a>"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"label",
+				"label	<label>"
+			],
+			[
+				"input",
+				"input	input - checkbox"
+			],
+			[
+				"perspecitv",
+				"-webkit-perspective-origin:   (property)"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"border-colo",
+				"border-left-color"
+			],
+			[
+				"tran",
+				"transition:   (property)"
+			],
+			[
+				"backgro",
+				"background"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"includ",
+				"include	@include"
+			],
+			[
+				"clar",
+				"clear:   (property)"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"table",
+				"table-cell"
+			],
+			[
+				"dark",
+				"dark_pink"
+			],
+			[
+				"backgrou",
+				"background-position"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"red",
+				"redirect_to"
+			],
+			[
+				"is_logg",
+				"is_user_logged_in"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"current_use",
+				"get_current_user_id"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"border-",
+				"border-bottom"
+			],
+			[
+				"bewe",
+				"bewe-theme"
+			],
+			[
+				"aut",
+				"author_email"
+			],
+			[
+				"get_meta",
+				"get_post_meta"
+			],
+			[
+				"border-r",
+				"border-right"
+			],
+			[
+				"get_tem",
+				"get_template_part"
+			],
+			[
+				"pos",
+				"posts_array"
+			],
+			[
+				"is_sing",
+				"is_singular"
+			],
+			[
+				"border-bot",
+				"border-bottom"
+			],
+			[
+				"background",
+				"background-position"
+			],
+			[
+				"tem",
+				"temp_img_slide_1"
+			],
+			[
+				"nav",
+				"nav_width"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"imag",
+				"imaglist"
+			],
+			[
+				"blo",
+				"bloginfo"
+			],
+			[
+				"ma",
+				"max-width"
+			],
+			[
+				"lic",
+				"license_data"
+			],
+			[
+				"is_sinl",
+				"is_single"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"grey",
+				"grey"
+			],
+			[
+				"is_sin",
+				"is_singular"
+			],
+			[
+				"li",
+				"lighter"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"whm",
+				"wmh_thumb_url"
+			],
+			[
+				"bord",
+				"border-top"
+			],
+			[
+				"whi",
+				"white"
+			],
+			[
+				"opa",
+				"opacity"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"backgroun",
+				"background-size"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"vid",
+				"video_image_url"
+			],
+			[
+				"spac",
+				"letter-spacing"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"tabl",
+				"table-cell"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"Activ",
+				"Activate"
+			],
+			[
+				"mc-",
+				"mc-cycle"
+			],
+			[
+				"yout",
+				"youtube_url"
+			],
+			[
+				"auto",
+				"autoplay"
+			],
+			[
+				"plugin_ur",
+				"plugins_url"
+			],
+			[
+				"blue",
+				"blue_sea"
+			],
+			[
+				"border-lef",
+				"border-left"
+			],
+			[
+				"dar",
+				"grey_darker"
+			],
+			[
+				"grey_dar",
+				"grey_darker"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"flo",
+				"float"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"the_time",
+				"get_the_time"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"int",
+				"inherit"
+			],
+			[
+				"pru",
+				"product"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"plu",
+				"plugin_urll"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Compass/Compass.sublime-build",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"bu",
+				"SassBeautify: Convert from SCSS to current type"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/F/Github/firebase/src/scss/modules/_vars.scss",
+		"/F/Github/firebase/src/scss/modules/_defaults.scss",
+		"/F/Github/firebase/src/scss/partials/_main.scss",
+		"/F/Github/firebase/src/js/scripts.js",
+		"/F/Github/firebase/app/index.html",
+		"/F/Github/firebase/app/.gitignore",
+		"/F/Github/firebase/firebase.json",
+		"/C/Users/Raymon/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Raymon/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/F/Github/firebase/app.js",
+		"/F/Github/firebase/package.json",
+		"/F/BitBucket/wmh_everbindingnl_theme/themeforest/themeforest-7315054-bridge-creative-multipurpose-wordpress-theme/bridge/bridge/css/custom_css.css",
+		"/F/BitBucket/wmh_everbindingnl_theme/themeforest/themeforest-7315054-bridge-creative-multipurpose-wordpress-theme/bridge/bridge/includes/shortcodes/shortcodes.php",
+		"/F/BitBucket/wmh_everbindingnl_theme/themeforest/themeforest-7315054-bridge-creative-multipurpose-wordpress-theme/bridge/bridge/includes/shortcodes/qode_shortcodes_portfolio_list.php",
+		"/F/BitBucket/wmh_everbindingnl_theme/.gitignore",
+		"/F/BitBucket/wmh_everbindingnl_theme/wordpress/.gitignore",
+		"/F/BitBucket/wmh_everbindingnl_theme/documents/database.md",
+		"/F/BitBucket/wmh_everbindingnl_theme/themeforest/wordpress-4.0-nl_NL/wordpress/wp-config.php",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/scss/modules/_content.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/contents/js/main.js",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/scss/partials/_header.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/scss/partials/_nav.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/article.jade",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/layout.jade",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/contents/css/main.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/scss/modules/_vars.scss",
+		"/D/DJ Recordings/1405 ProgressivBeats - Podcast 1/tracklist.md",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/background.jade",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/contents/background.md",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/config.json",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/contents/articles/work-faster-play-harder/index.md",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/contents/articles/another-test/index.md",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/build/js/main.js",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/scss/modules/_article.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/scss/modules/_default.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/scss/modules/_typography.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/scss/modules/_code.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/scss/modules/_normalize.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/contents/contents/assets/css/main.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/node_modules/wintersmith-nap/src/wintersmith-nap.coffee",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/contents/contents/css/main.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/js/main.js",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/js/default.ugljs",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/scss/modules/_layout.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/scss/modules/_mixins.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/scss/modules/_clear.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/package.json",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/templates/blog.jade",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/contents/articles/bamboo-cutter/index.md",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/.bowerrc",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/contents/css/modules/_default.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/contents/css/modules/_vars.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/contents/css/modules/_normalize.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/contents/css/modules/_archive.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/contents/css/modules/_article.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/contents/css/partials/_footer.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/contents/css/partials/_header.scss",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/wintersmith/.gitignore",
+		"/F/BitBucket/pro_frontend_dev_tips/.gitignore",
+		"/F/BitBucket/pro_frontend_dev_tips/website2014/package.json",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/contents/home.md",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/js/scripts.js",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/partials/locaties.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/partials/scripts.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/scss/modules/_buttons.scss",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/scss/modules/_typography.scss",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/scss/modules/_defaults.scss",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/partials/bottom-vacature.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/frontend-developer-opzoek-nieuwe-baan-den-haag.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/frontend-developer-opzoek-nieuwe-baan-dordrecht.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/partials/share-vacature.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/frontend-developer-opzoek-nieuwe-baan-breda.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/contents/fd_nieuwe_job.md",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/frontend-developer-opzoek-nieuwe-baan-eindhoven.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/frontend-developer-opzoek-nieuwe-baan-rotterdam.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/frontend-developer-opzoek-nieuwe-baan-utrecht.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/frontend-developer-opzoek-nieuwe-baan-amsterdam.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/dist/frontend-developer-opzoek-nieuwe-job.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/gulpfile.js",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/dist/assets/css/style.css",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/README.md",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/partials/seo.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/contact.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/partials/head.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/vind-frontend-developer-voor-project-en-bedrijf.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/frontend-developer-opzoek-nieuwe-job.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/sitemap.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/index.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/scss/modules/_content.scss",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/scss/partials/_nav.scss",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/scss/partials/_header.scss",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/_depl/index.php",
+		"/F/BitBucket/bitbucket-sync/index.php",
+		"/F/BitBucket/bitbucket-sync/deploy.php",
+		"/F/BitBucket/bitbucket-sync/config.sample.php",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/dist/frontend-developer-opzoek-nieuwe-baan-amsterdam.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/contents/frontend-developer-amsterdam.md",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/sitemap.xml",
+		"/D/Downloads/sitemap.xml",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/contents/frontendevelopergezocht_algemeen.md",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/scss/partials/_footer.scss",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/scss/modules/_grid.scss",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/partials/footer.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/contents/sitemap.md",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/contents/frontend-developer-dordrecht.md",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/content/sitemap.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/content/frontendevelopergezocht_algemeen.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/contents/fd_vind_developer.md",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/page.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/content/content_page.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/contents/frontend-developer-rotterdam.md",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/contents/contact_page.md",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/assets/apple-touch-icon-114x114.png",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/content/frontend-developer-rotterdam.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/php/process.php",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/content/contact_page.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/scss/modules/_brands_colors.scss",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/.htaccess",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/partials/nav-list.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/scss/partials/_sidebar.scss",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/scss/style.scss",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/scss/modules/_inputs.scss",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/scss/modules/_ie8.scss",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/partials/header.html",
+		"/D/Downloads/ie6_top/ie6_top 2/ie6_top_min.html",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/package.json",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/robots.txt",
+		"/F/BitBucket/frontenddevgezocht/development/website2014/src/assets/components/svgeezy/svgeezy.min.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"F:\\BitBucket\\wmh_everbindingnl_theme\\themeforest\\themeforest-7315054-bridge-creative-multipurpose-wordpress-theme\\bridge\\bridge",
+			"F:\\BitBucket\\pro_frontend_dev_tips\\website2014\\wintersmith\\templates\\scss",
+			"F:\\BitBucket\\pro_frontend_dev_tips\\website2014\\wintersmith\\templates\\scss\\modules",
+			"F:\\BitBucket\\frontenddevgezocht\\development\\website2014\\src\\scss",
+			"F:\\BitBucket\\frontenddevgezocht\\development\\website2014\\src\\scss\\modules",
+			"F:\\BitBucket\\frontenddevgezocht\\development\\website2014\\src\\scss",
+			"F:\\BitBucket\\frontenddevgezocht\\development\\website2014\\src\\content",
+			"F:\\BitBucket\\frontenddevgezocht\\development\\website2014\\src\\scss",
+			"F:\\BitBucket\\idis_studio_wordpress\\wordpress\\wp-content\\themes\\idis-studio\\sass",
+			"F:\\BitBucket\\idis_studio_wordpress\\wordpress\\wp-content\\themes\\idis-studio",
+			"F:\\BitBucket\\idis_studio_wordpress\\wordpress\\wp-content\\themes\\idis-studio\\inc",
+			"F:\\BitBucket\\idis_studio\\fastshell\\src\\scss",
+			"F:\\Github\\wmh_annaklijn_theme\\genesis",
+			"F:\\Github\\wmh_annaklijn_theme\\minimum",
+			"Z:\\Klanten\\Anna Klijn\\Opdrachten\\20131210 website aanpassingen\\wp-members",
+			"Z:\\Klanten\\Anna Klijn\\Opdrachten\\20131210 website aanpassingen\\wp-user-redirect",
+			"Z:\\Klanten\\Anna Klijn\\Opdrachten\\20131210 website aanpassingen\\wp-video-training",
+			"Z:\\Klanten\\Anna Klijn\\Opdrachten\\20131106 trainings product\\Files\\Source\\20131115 trainings plugin\\v0.1\\minimum",
+			"Z:\\Klanten\\Anna Klijn\\Opdrachten\\20131106 trainings product\\Files\\Source\\20131115 trainings plugin\\v0.1\\minimum\\functions",
+			"Z:\\Klanten\\Anna Klijn\\Opdrachten\\20131106 trainings product\\Files\\Source\\20131115 trainings plugin\\v0.1\\minimum",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-10-07 Woocommerce",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-11-06 Woocommerce backup",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-10-30 Simplemap\\simplemap",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-11-13 Dealer plugin\\wp-dealer-manager\\functions",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-10-07 Woocommerce",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-09-24 WP Theme",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-10-07 Woocommerce",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-09-24 WP Theme\\woocommerce",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-09-24 WP Theme\\woocommerce\\single-product",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-09-24 WP Theme",
+			"D:\\Webdevelopment\\Bewe\\sass",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-09-24 WP Theme\\functions",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-09-24 WP Theme",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-10-07 Woocommerce",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-09-24 WP Theme\\woocommerce",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-10-07 Woocommerce",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-09-24 WP Theme\\woocommerce",
+			"D:\\Webdevelopment\\Bewe\\sass",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-09-24 WP Theme\\woocommerce",
+			"D:\\Webdevelopment\\Bewe\\sass",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-09-24 WP Theme\\loop",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-09-24 WP Theme\\woocommerce",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-10-30 Simplemap\\simplemap",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-09-24 WP Theme\\woocommerce",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-09-24 WP Theme\\woocommerce\\checkout",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-10-30 Simplemap\\simplemap",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-09-24 WP Theme",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-10-07 Woocommerce",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-10-12 Woocommerce Tabs",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-09-24 WP Theme\\woocommerce",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-10-07 Woocommerce",
+			"Z:\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-09-24 BEWE\\Bestanden\\Source\\2013-10-07 Woocommerce\\templates",
+			"Z:\\Klanten\\WMH WP Plugins\\Opdrachten\\2013-09-22 wmh-wp-plugins.com\\Bestanden\\Source\\2013-08-31 WP Plugin EDD\\easy-digital-downloads",
+			"Z:\\Klanten\\WMH WP Plugins\\Opdrachten\\2013-09-22 wmh-wp-plugins.com\\Bestanden\\Source\\plugins",
+			"Z:\\Klanten\\WMH WP Plugins\\Opdrachten\\2013-09-22 wmh-wp-plugins.com\\Bestanden\\Source\\2013-09-22 WP Install",
+			"D:\\NAS\\Web Media Helden\\Web Media Helden\\Klanten\\WMH WP Plugins\\Opdrachten\\2013-08-31 wmh-wp-plugins.nl\\Bestanden\\Source bestanden\\2013-09-14 WP Custom Theme",
+			"D:\\NAS\\Web Media Helden\\Web Media Helden\\Klanten\\WMH WP Plugins\\Opdrachten\\2013-08-31 wmh-wp-plugins.nl\\Bestanden\\Source bestanden",
+			"D:\\NAS\\Web Media Helden\\Web Media Helden\\Klanten\\WMH WP Plugins\\Opdrachten\\2013-08-31 wmh-wp-plugins.nl\\Bestanden\\Source bestanden\\wp_exclusive_fullscreen_slider",
+			"D:\\NAS\\Web Media Helden\\Web Media Helden\\Klanten\\WMH WP Plugins\\Opdrachten\\2013-08-31 wmh-wp-plugins.nl\\Bestanden\\Source bestanden",
+			"D:\\NAS\\Web Media Helden\\Web Media Helden\\Klanten\\WMH WP Plugins\\Opdrachten\\2013-08-31 wmh-wp-plugins.nl\\Bestanden\\Source bestanden\\2013-09-14 Custom Plugin",
+			"D:\\NAS\\Web Media Helden\\Web Media Helden\\Klanten\\WMH WP Plugins\\Opdrachten\\2013-08-31 wmh-wp-plugins.nl\\Bestanden\\Source bestanden\\2013-09-14 WP Custom Theme",
+			"D:\\NAS\\Web Media Helden\\Web Media Helden\\Klanten\\WMH WP Plugins\\Opdrachten\\2013-08-31 wmh-wp-plugins.nl\\Bestanden\\Source bestanden\\2013-09-14 WP Custom Theme\\sass",
+			"D:\\NAS\\Web Media Helden\\Web Media Helden\\Klanten\\WMH WP Plugins\\Opdrachten\\2013-08-31 wmh-wp-plugins.nl\\Bestanden\\Source bestanden\\2013-08-31 WP Shop Front EDD theme\\shop-front",
+			"D:\\NAS\\Web Media Helden\\Web Media Helden\\Klanten\\WMH WP Plugins\\Opdrachten\\2013-08-31 wmh-wp-plugins.nl\\Bestanden\\Source bestanden\\2013-08-31 WP Shop Front EDD theme\\shop-front\\includes",
+			"D:\\NAS\\Web Media Helden\\Web Media Helden\\Klanten\\WMH WP Plugins\\Opdrachten\\2013-08-31 wmh-wp-plugins.nl\\Bestanden\\Source bestanden\\2013-08-31 WP Shop Front EDD theme\\shop-front",
+			"D:\\NAS\\Web Media Helden\\Web Media Helden\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-08-21 website BAS\\Bestanden\\Source bestanden\\2013-08-21 WP Theme",
+			"D:\\NAS\\Web Media Helden\\Web Media Helden\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-08-21 website BAS\\Bestanden\\Source bestanden\\2013-09-02 Custom Plugin",
+			"D:\\NAS\\Web Media Helden\\Web Media Helden\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-08-21 website BAS\\Bestanden\\Source bestanden\\2013-08-21 WP Theme\\sass",
+			"D:\\NAS\\Web Media Helden\\Web Media Helden\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-08-12 website graficoncept.nl\\Bestanden\\Source bestanden\\2013-08-12  WP theme\\functions",
+			"X:\\Web Media Helden\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-08-12 website graficoncept.nl\\Bestanden\\Source bestanden\\2013-08-12  WP theme\\sass",
+			"X:\\Web Media Helden\\Klanten\\Intersites-Graficoncept\\Opdrachten\\2013-08-12 website graficoncept.nl\\Bestanden\\Source bestanden\\2013-08-12  WP theme",
+			"X:\\Web Media Helden\\Klanten\\Web Media Helden\\Opdrachten\\2013-07-08 Facturerings WP plugin\\Bestanden\\Source bestanden\\2013-07-14 Invoice WP Plugin\\classes\\lib\\meta-box-class",
+			"X:\\Web Media Helden\\Klanten\\Web Media Helden\\Opdrachten\\2013-07-08 Facturerings WP plugin\\Bestanden\\Source bestanden\\2013-07-14 Invoice WP Plugin"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\",",
+			"$target =",
+			"$target",
+			"add_shortcode",
+			"target=\"_blank",
+			"target",
+			"portfolio_list ",
+			"small",
+			"windowHeight",
+			"jQuery",
+			".jpg",
+			"image",
+			".67em 0",
+			"../../../templates",
+			"../../templates",
+			"contents",
+			"import",
+			".more",
+			"@media",
+			"rrem;",
+			"em;",
+			"col",
+			"column",
+			"[l]",
+			"- ",
+			"list",
+			"content",
+			"#fff",
+			"background_grey",
+			"concat-deployment",
+			"localhost:3000",
+			"h3",
+			"</a></li>",
+			"\">",
+			"<a href=\"",
+			"</a></li>",
+			"\">",
+			"<a href=\"",
+			"<li>",
+			"<ul>",
+			"Dordrecht",
+			"Den Haag",
+			"Breda",
+			"Utrecht",
+			"Amsterdam",
+			"Rotterdam",
+			"Den Haag",
+			"Eindhoven",
+			"Breda",
+			"Utrecht",
+			"Amsterdam",
+			"rotter",
+			"Rotterdam",
+			" role=\"contentinfo\"",
+			"<li>",
+			"<ul>",
+			"</p>",
+			"<p>",
+			"<h1>",
+			"we",
+			"<li>",
+			"</li>",
+			"developer_style",
+			"text_shadow_rotate",
+			"contact",
+			"send",
+			"filter",
+			"ie6",
+			"id=\"",
+			"id",
+			"#ie8_links",
+			"ie6_links",
+			"ie6_wrap",
+			"#ie6_wrap",
+			"#ie6_banner",
+			"yetti",
+			"form",
+			"sphere_image",
+			".jade",
+			"failed",
+			"clean-html",
+			"css",
+			"app",
+			" {font-size",
+			"WebFontConfig",
+			"footer_bottom",
+			"input",
+			"screen-reader-text",
+			"clear",
+			"two",
+			"one_third",
+			" &&",
+			"-m tcp --dport 22 -j ACCEPT",
+			"iptables -A INPUT -p tcp -s",
+			"iptables",
+			"</span>",
+			"/></a>",
+			"@media",
+			".woocommerce-page",
+			"@media",
+			"max-width:480px",
+			"max-width:480px) {",
+			"@media only screen and (max-width:480px) {",
+			"@media only screen and (max-width: 480px) {",
+			".woocommerce div.main div.product div.summary",
+			"woocommerce in",
+			"product-thumbnail",
+			".woocommerce table.cart .product-thumbnail",
+			"../",
+			"the_title",
+			"title",
+			"the_title",
+			".html",
+			"../",
+			"#fff",
+			"ketting",
+			"kettingen_meisjes_roze_hartje",
+			"luiertaart",
+			"vendor",
+			"url('",
+			"body {",
+			"custom_genesis_comment_callback",
+			"comment",
+			"wp_list_comments",
+			"genesis_comment_list_args",
+			"Voornaam",
+			"form",
+			"custom_header_form"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\",\n",
+			"$",
+			"../../../../templates",
+			"../../../templates",
+			"rem;",
+			"*",
+			"[l] ",
+			"$white",
+			"frontenddevelopergezocht.nl",
+			"]",
+			")[",
+			"(",
+			")",
+			"](",
+			"[",
+			"- ",
+			"Eindhoven",
+			"Dordrecht",
+			"Den Haag",
+			"Breda",
+			"Utrecht",
+			"Amsterdam",
+			"Dordrecht",
+			"Den Haag",
+			"Eindhoven",
+			"Breda",
+			"Utrecht",
+			"Amsterdam",
+			"",
+			"- ",
+			"",
+			"##",
+			"",
+			"- ",
+			"",
+			"phone",
+			"ie8",
+			"class=\"",
+			"class",
+			".ie8_links",
+			"ie8_links",
+			"ie8_wrap",
+			".ie8_wrap",
+			".ie8_banner",
+			"yoda",
+			"",
+			"-j DROP",
+			"iptables -A INPUT -s",
+			"sudo iptables",
+			"</span></a>",
+			"/>",
+			"assets/",
+			"",
+			"assets/",
+			"armband",
+			"ketting_armband_turqouise_goud_dreamz_set",
+			"kettingen",
+			"url('../fonts/",
+			"wur-",
+			"wur_",
+			"dealer",
+			"_wdm_dealer",
+			"dealer",
+			"Dealer",
+			"dealer_",
+			"_wdm",
+			"dealer",
+			"dealer-winkel",
+			"wdm",
+			"order_dealer",
+			"\"my_awesome_publication_notification\"",
+			"",
+			"h5",
+			"include( 'nav-shop.php' );",
+			"<div",
+			"div",
+			"",
+			"remove_wcm_",
+			".row .medium",
+			"jQuery",
+			"EDD_TSP_ITEM_NAME",
+			"EDD_TSP_STORE_URL",
+			"edd_tsp",
+			"edd_tsp_",
+			"EDD_TSP_",
+			"edd_tsp_sanitize_license",
+			"_TSP",
+			"WMH_TSP_PLUGINS_STORE_URL",
+			"wmh_tsp_check_license",
+			"wmh_tsp_license_deactivate",
+			"wmh_tsp_deactivate_license",
+			"wmh_tsp_nonce",
+			"wmh_tsp_license_activate",
+			"wmh_tsp_activate_license",
+			"wmh_tsp_sanitize_license",
+			"wmh_tsp_register_option",
+			"wmh_tsp_license",
+			"wmh_tsp_license_status",
+			"wmh_tsp_license_key",
+			"wmh_tsp_license_menu",
+			"wmh_tsp_license_page",
+			"WMH_TSP_PLUGIN",
+			"<a href=\"#\"></a><div class=\"inner\">\n        <p>This is some text</p>\n    </div>",
+			"-webkit-transform",
+			"4",
+			"_4",
+			"",
+			"\"column large-12\"",
+			"programma 3",
+			"video_image_url",
+			"url('../source/",
+			"$red;",
+			"efss_section_id",
+			"efss_options_group",
+			"efss_options_name",
+			"create_efss_setting_page",
+			"efss-settings",
+			"slider_speed",
+			"slider_pauze",
+			"slider_speed",
+			"settings",
+			"efss_settings_page",
+			"wp__fs_plugin",
+			"efss",
+			"__",
+			"efss",
+			"exclusive_fullscreen_slider",
+			"exclusive_fullscreen_slider_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 130.0
+	},
+	"project": "webfreak.sublime-project",
+	"replace":
+	{
+		"height": 98.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\BitBucket\\pro_frontend_dev_tips\\profrontendtips.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 239.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

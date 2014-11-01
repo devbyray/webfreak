@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+html {
+  background: lighten(#ccc, 15%);
+  line-height: 1.4;
+}
+body {
+  margin: 0 0 0 0;
+  padding: 1rem 0;
+  color: #333;
+  transition: all .4s .3s ease-in;
+}
